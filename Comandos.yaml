@@ -1,0 +1,34 @@
+1 - CRIAR REPOSITORIO
+
+git init
+
+
+2 - ADICONAR UM ARQUIVO NO REPOSITORIO
+
+git add
+
+3 - ADICIONAR TODOS OS ARQUIVOS AO REPOSITORIO
+
+git add.
+
+4 - SALVAR ALTERAÇÕES
+
+
+git commit 
+
+-a - ENVIA TUDO
+-m - Mensagem
+
+
+5 - ENVIAR TUDO
+
+git push
+
+
+6 0 VER SE O REPO ESTA ATUALIZADO
+
+git pull - ele faz download do repositorio 
+
+
+
+
