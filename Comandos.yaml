@@ -25,10 +25,14 @@ git commit
 git push
 
 
-6 0 VER SE O REPO ESTA ATUALIZADO
+6 - VER SE O REPO ESTA ATUALIZADO
 
 git pull - ele faz download do repositorio 
 
 
+
+7 - COLNAR REPOSITORIO
+
+git clone
 
 
